@@ -1,0 +1,6 @@
+Create an bitmap (bmp) file
+Make a negative graph of the object with black (255,255,255) color
+Name it as "1.bmp"
+Run "lc.exe"
+then run "inertiacalc"
+enter object information
